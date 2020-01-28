@@ -51,7 +51,6 @@ let peanutMandMsButton= document.createElement('button')
 peanutMandMsButton.innerText="Restock Peanut M&M's"
 let peanutButterCupsButton=document.createElement('button')
 peanutButterCupsButton.innerText="Restock Peanut Butter Cups"
-// let candyJar= document.createElement('div')
 let candyListHeading=document.createElement('h3')
 candyListHeading.innerText="Candy available at present:"
 let candyShelf= document.createElement('p')
