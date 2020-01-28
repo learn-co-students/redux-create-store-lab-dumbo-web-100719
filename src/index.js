@@ -70,6 +70,5 @@ let store=createStore(candyReducer)
 store.dispatch({type: "@@INIT"})
 store.dispatch({type: "ADD_CANDY"})
 store.dispatch(addCandy("orangettes"))
-store.dispatch(addCandy("peanut butter cups"))
 store.dispatch(addCandy("granola bites"))
 
